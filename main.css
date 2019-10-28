@@ -1,0 +1,20 @@
+body {
+    background-color: gold;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .inline {
+    display: inline;
+  }
+
+  #logo {
+      width: 300;
+      height: 300;
+      border: 2px, solid, black;
+    
+  }
+
